@@ -18,6 +18,7 @@ namespace TravelRecordApp
         public HomePage()
         {
             InitializeComponent();
+            // just adding yolo shit
         }
 
         private void ToolbarItem_Clicked(object sender, EventArgs e)
